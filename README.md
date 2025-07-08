@@ -1,4 +1,4 @@
 # first-demo
 This is my first git repository.
 <br>
-Author-Pramod Hiremath
+Author-Pramod (agadi)
